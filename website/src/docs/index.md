@@ -17,9 +17,9 @@ Here’s the simplest example html page with Uppy (it uses a CDN bundle, while w
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"/>
     <title>Uppy</title>
-    <link href="https://transloadit.edgly.net/releases/uppy/v1.6.0/uppy.min.css" rel="stylesheet">
+    <link href="https://transloadit.edgly.net/releases/uppy/v1.6.0/uppy.min.css" rel="stylesheet"/>
   </head>
   <body>
     <div id="drag-drop-area"></div>
